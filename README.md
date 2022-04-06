@@ -8,3 +8,4 @@ Here is the link to the [Graphical Summary](https://docs.google.com/presentation
 
 We are using Draw.IO for creating the diagrams of the project.
 
+Here is a link to [project_data_assessment_process](https://drive.google.com/file/d/1P1xcFAEAEWp0NpKyCJqnSuvNw9EEZyqd/view?usp=sharing)
