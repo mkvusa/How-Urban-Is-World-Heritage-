@@ -580,7 +580,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="9xp86uJfm40RDKvh4--S" name="Dataflow">
-        <mxGraphModel dx="1125" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1240" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="GQnkNjo6-2wFI0aGqLSe-0"/>
                 <mxCell id="GQnkNjo6-2wFI0aGqLSe-1" parent="GQnkNjo6-2wFI0aGqLSe-0"/>
@@ -648,7 +648,7 @@
                     <mxGeometry x="480" y="690" width="150" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="XYpNd20moe_UTNHxV3wS-11" value="Question 1: How to describe a particular spatial configuration of zones numerically?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="GQnkNjo6-2wFI0aGqLSe-1" vertex="1">
-                    <mxGeometry x="280" y="350" width="430" height="60" as="geometry"/>
+                    <mxGeometry x="300" y="350" width="430" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="XYpNd20moe_UTNHxV3wS-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#009999;align=left;fillColor=#4D4D4D;" parent="GQnkNjo6-2wFI0aGqLSe-1" vertex="1">
                     <mxGeometry x="80" y="880" width="40" height="40" as="geometry"/>
