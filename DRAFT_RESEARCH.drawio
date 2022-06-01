@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="4">
     <diagram id="Zh2FEWwTdVQycIdZ15-T" name="Page-1">
-        <mxGraphModel dx="2058" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1527" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1938,7 +1938,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="5o5HYLXAAGktDoPZHgS4" name="DataWorkflow for Workshop">
-        <mxGraphModel dx="1208" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1378" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="Bcg38-bpnsQhzZl1J9dA-0"/>
                 <mxCell id="Bcg38-bpnsQhzZl1J9dA-1" parent="Bcg38-bpnsQhzZl1J9dA-0"/>
@@ -2080,7 +2080,7 @@
                         <mxPoint x="770" y="1035" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-18" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Bcg38-bpnsQhzZl1J9dA-1" source="n1gFU1L6FecQFWU9qf9V-42" target="OL0P7KVmVkcyrvZOPggY-17">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-18" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="n1gFU1L6FecQFWU9qf9V-42" target="OL0P7KVmVkcyrvZOPggY-17" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="n1gFU1L6FecQFWU9qf9V-42" value="Digitization" style="rounded=1;whiteSpace=wrap;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
@@ -2095,6 +2095,14 @@
                 <mxCell id="n1gFU1L6FecQFWU9qf9V-45" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="n1gFU1L6FecQFWU9qf9V-46" target="0aIJnQtmd24U2ZBuMo2_-28" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="558.75" y="730" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jIwgU-gflCDyHT29k0-B-0" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Bcg38-bpnsQhzZl1J9dA-1" source="n1gFU1L6FecQFWU9qf9V-46" target="OL0P7KVmVkcyrvZOPggY-23">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1380" y="640"/>
+                            <mxPoint x="830" y="640"/>
+                        </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="n1gFU1L6FecQFWU9qf9V-46" value="Validation Process???" style="rounded=1;whiteSpace=wrap;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
@@ -2118,46 +2126,70 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-7" style="edgeStyle=none;html=1;" edge="1" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-0" target="OL0P7KVmVkcyrvZOPggY-6">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-7" style="edgeStyle=none;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-0" target="OL0P7KVmVkcyrvZOPggY-6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-14" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-2" target="OL0P7KVmVkcyrvZOPggY-0">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-14" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-2" target="OL0P7KVmVkcyrvZOPggY-0" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-2" value="&lt;b&gt;PARAMETERS&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. CRS-(OSM)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Name of file&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Type of file(Polygon)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. Save in New regional folder&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Bcg38-bpnsQhzZl1J9dA-1">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-2" value="&lt;b&gt;PARAMETERS&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. CRS-(OSM)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Name of file&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Type of file(Polygon)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. Save in New regional folder&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
                     <mxGeometry x="1290" y="1050" width="180" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-6" value="Initiate &quot;EDIT&quot; in the New Empty feature file" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Bcg38-bpnsQhzZl1J9dA-1">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-6" value="Initiate &quot;EDIT&quot; in the New Empty feature file" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
                     <mxGeometry x="1115" y="1160" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-16" style="edgeStyle=none;html=1;" edge="1" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-11">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-16" style="edgeStyle=none;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-11" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1000" y="1020" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-11" value="Trace over boundaries of Georeferenced image" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Bcg38-bpnsQhzZl1J9dA-1">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-11" value="Trace over boundaries of Georeferenced image" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
                     <mxGeometry x="930" y="1070" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-15" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-0" target="OL0P7KVmVkcyrvZOPggY-11">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-15" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-0" target="OL0P7KVmVkcyrvZOPggY-11" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-0" value="Create New Empty feature file&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Bcg38-bpnsQhzZl1J9dA-1">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-0" value="Create New Empty feature file&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
                     <mxGeometry x="1115" y="1070" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-19" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-17" target="n1gFU1L6FecQFWU9qf9V-44">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-19" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-17" target="n1gFU1L6FecQFWU9qf9V-44" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-17" value="Stop Edit and Save File" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Bcg38-bpnsQhzZl1J9dA-1">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-17" value="Stop Edit and Save File" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
                     <mxGeometry x="1115" y="955" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-22" style="edgeStyle=none;html=1;" edge="1" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-20" target="OL0P7KVmVkcyrvZOPggY-21">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-22" style="edgeStyle=none;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-20" target="OL0P7KVmVkcyrvZOPggY-21" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-20" value="GDAL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="Bcg38-bpnsQhzZl1J9dA-1">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-20" value="GDAL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
                     <mxGeometry x="800" y="250" width="60" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="OL0P7KVmVkcyrvZOPggY-21" value="Download City Boundary.Shp pr Geojson" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bcg38-bpnsQhzZl1J9dA-1">
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-26" style="edgeStyle=none;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-21" target="OL0P7KVmVkcyrvZOPggY-23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-21" value="Download City Boundary.Shp pr Geojson" style="rounded=1;whiteSpace=wrap;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
                     <mxGeometry x="770" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-28" value="" style="edgeStyle=none;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-23" target="OL0P7KVmVkcyrvZOPggY-27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-23" value="Convert to Raster" style="rounded=1;whiteSpace=wrap;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
+                    <mxGeometry x="770" y="490" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-30" value="" style="edgeStyle=none;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-27" target="OL0P7KVmVkcyrvZOPggY-29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-27" value="Select input Shapefile" style="whiteSpace=wrap;html=1;rounded=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
+                    <mxGeometry x="905" y="490" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jIwgU-gflCDyHT29k0-B-2" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Bcg38-bpnsQhzZl1J9dA-1" source="OL0P7KVmVkcyrvZOPggY-29" target="jIwgU-gflCDyHT29k0-B-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OL0P7KVmVkcyrvZOPggY-29" value="Parameters&lt;br&gt;1. Raster size units(Pixels or Georeferenced units)&lt;br&gt;2. set horizontal/vertical resulotion of output TIFF" style="whiteSpace=wrap;html=1;rounded=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
+                    <mxGeometry x="1040" y="480" width="190" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="jIwgU-gflCDyHT29k0-B-1" value="Assign name and save layer" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Bcg38-bpnsQhzZl1J9dA-1">
+                    <mxGeometry x="1280" y="480" width="190" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
