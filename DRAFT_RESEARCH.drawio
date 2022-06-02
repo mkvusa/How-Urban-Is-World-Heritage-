@@ -1938,7 +1938,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="5o5HYLXAAGktDoPZHgS4" name="DataWorkflow for Workshop">
-        <mxGraphModel dx="4301" dy="2377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1240" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="Bcg38-bpnsQhzZl1J9dA-0"/>
                 <mxCell id="Bcg38-bpnsQhzZl1J9dA-1" parent="Bcg38-bpnsQhzZl1J9dA-0"/>
@@ -2305,6 +2305,9 @@
                 <mxCell id="jIwgU-gflCDyHT29k0-B-30" value="Substract&lt;br&gt;I&lt;sub&gt;1&lt;/sub&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;=Y&lt;/span&gt;&lt;sub&gt;1&lt;/sub&gt;-Y&lt;sub&gt;(nomination)&lt;br&gt;&lt;/sub&gt;I&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;=Y&lt;sub&gt;(nomination)&lt;/sub&gt;-Y&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;&lt;sub&gt;&lt;br&gt;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
                     <mxGeometry x="1840" y="880" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="vlZl5f9CpoTMT8l3rk0D-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="Bcg38-bpnsQhzZl1J9dA-1" source="jIwgU-gflCDyHT29k0-B-32" target="vlZl5f9CpoTMT8l3rk0D-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="jIwgU-gflCDyHT29k0-B-32" value="Comparison&lt;br&gt;1. Rate1 and Rate 2&lt;br&gt;2. Amount of landcover change" style="rounded=1;whiteSpace=wrap;html=1;" parent="Bcg38-bpnsQhzZl1J9dA-1" vertex="1">
                     <mxGeometry x="1840" y="1000" width="120" height="60" as="geometry"/>
                 </mxCell>
@@ -2325,6 +2328,9 @@
                 </mxCell>
                 <mxCell id="vlZl5f9CpoTMT8l3rk0D-4" value="?????" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Bcg38-bpnsQhzZl1J9dA-1">
                     <mxGeometry x="2240" y="490" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="vlZl5f9CpoTMT8l3rk0D-6" value="Landcover change detection map" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;fontSize=12;" vertex="1" parent="Bcg38-bpnsQhzZl1J9dA-1">
+                    <mxGeometry x="2030" y="1005" width="150" height="50" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
