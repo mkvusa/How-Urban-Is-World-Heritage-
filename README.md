@@ -1,4 +1,4 @@
-#Heritage Zoning and Urbanization: An Assessment of Urbanization Trends and Patterns in World Heritage Properties
+#[eritage Zoning and Urbanization: An Assessment of Urbanization Trends and Patterns in World Heritage Properties]
 
 This is the reporsitory of the project amd Journal paper Heritage Zoning and urbnisation: . It contains Steps, data and Results of the process resulting from the the assessemtent of urbanisation trends and patterns in World Heritage properties. 
 To use it: follow the setup instructions below.
