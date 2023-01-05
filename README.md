@@ -7,13 +7,9 @@ To use it, follow the setup and instructions below.
 0.  Workflow
 01. Requirements
 02. Setup
-03. Folders
-04. Files
-05. Leveraging on Github Capabilities
-06. Writing
-07. Journal Submissions
-08. Principles
-09. Further Reading
+03. Files
+04. Writing
+05. Further Reading
 
 ## Workflow and datasets
 The work flow illustrate the step by step approach for this project. The original shapefiles were generated and collected from [The International Center on Space Technologies for Natural and Cultural Heritage (HIST)](http://www.unesco-hist.org/index.php?r=en/index) as such are not provided in this repository but can be accessed by request from the institution. The World Human Footprin layer evolution were processed and accessed through the [German Aerospace Center(DLR)](https://www.dlr.de/EN/Home/home_node.html) and can be dowloaded and processed by request through [German Aerospace Center(DLR)](https://geoservice.dlr.de/web/maps/eoc:wsfevolution).
@@ -34,38 +30,29 @@ Other great languages and softwares may also be used.
 - [Stata](https://www.stata.com) [Licensed]
 - [ArcGIS](https://www.arcgis.com/index.html)[Licensed]
 
-## Setup
+## 2. Setup
 Depending on how the raw data is collected;
 1. Group the properties in to folders of uUNESCO regions i.e EUR, LAC, APA, AFR and ARB.
 2. For each region group the shapefiles of the properties into categories of REPORT and NOT REPORTING for properties that are either reportinf or not reporting on urban developoment.
 3. Use python or whatever works to match names of folders to names in the attribute excel sheet of the world heritage list downloadable from [UNESCO website](https://whc.unesco.org/en/syndication).
 4. Use qGIS to merge the shapefiles by their regions and then edit the attribute table by adding the value Status, Showing"Reporting" or "Not Reporting"
 5. Join the attrbutes of the attribute table from of the world heritage list to the merged shapefils in set up 3.
+6. Provide core zones in shapefile format to DLR or use World Footprint layer evolution versio for assesment of Built-up change per year.
 
-
-## Files
+## 3. Files
 ##### `PUP.py`
 This was the python script used to retrieved the World heritage shapefiles on the Protected Urban Planets Geodataset for decsion making on which database was suitable for analysis in the project.
 
 
-## Leveraging on Github Capabilities
+## 4. Writing
+- Keep a set of continuously-updated slides reflecting the current state and vision of the project.
+- Online LaTeX editing tools such as [Overleaf](https://www.overleaf.com/) are suffiecient for simultaneous editing and comments.
+- Keep all `.bib` references organized in overleaf.
 
-
-## Writing
-
-
-
-## Journal Submissions
-
-
-
-## Principles
-
-
+## 5. Acknowledgement
+The workflows and datasets of this paper can be used under the [Creative Common License (Attribution CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Please give appropriate credit, such as providing a link to our paper or to this github repository. The copyright of all the downloaded and processed images belongs to the image owners.
 
 ## Further Reading
-
-
 
 Here is the link to [project report](https://docs.google.com/document/d/1z2x7LImbpOdwTfusMivY_bJPvH6AD3ctfQOXbscvRqc/edit)
 
