@@ -15,8 +15,9 @@ To use it, follow the setup and instructions below.
 08. Principles
 09. Further Reading
 
-## Workflow
-
+## Workflow and datasets
+The work flow illustrate the step by step approach for this project. The original shapefiles were generated and collected from [The International Center on Space Technologies for Natural and Cultural Heritage (HIST)](http://www.unesco-hist.org/index.php?r=en/index) as such are not provided in this repository but can be accessed by request from the institution. The World Human Footprin layer evolution were processed and accessed through the [German Aerospace Center(DLR)](https://www.dlr.de/EN/Home/home_node.html) and can be dowloaded and processed by request through [German Aerospace Center(DLR)](https://geoservice.dlr.de/web/maps/eoc:wsfevolution).
+The datasets provided in this repository are the results of the spatial temporal analysis of the World Human footprint layer in the world heritage properties showing the [built-up picxel count](https://github.com/mkvusa/heritagezoning/blob/main/_PixelCount_WSFEvo_ShapesNoBuffer_transposed_renamed.xlsx) of each year per property from the year 1985-2015. Additionally these excel datasets can show the [names of the World Heritage properties that were assessed in the by region and by category of reporting on urban development and not reporting on urban development](https://github.com/mkvusa/heritagezoning/delete/main/_PixelCount_WSFEvo_ShapesNoBuffer_transposed_renamed.xlsx).
 ![Workflow of the project](https://github.com/mkvusa/heritagezoning/blob/main/Regional%20maps/WorkFLow_HIST_new_edited.jpg)
 
 ## 1. Requirements
