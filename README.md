@@ -41,7 +41,7 @@ Depending on how the raw data is collected;
 
 ## 3. Files
 ##### `PUP.py`
-This was the python script used to retrieved the World heritage shapefiles on the Protected Urban Planets Geodataset for decsion making on which database was suitable for analysis in the project.
+This was the python script used to retrieved the World heritage shapefiles on the Protected Urban Planets Geodataset for decsion making on which database was suitable for analysis in the project. see results of the [assessment](https://github.com/mkvusa/heritagezoning/blob/main/Data%20Assessment.pptx) 
 
 
 ## 4. Writing
