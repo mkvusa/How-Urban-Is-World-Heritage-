@@ -42,10 +42,10 @@ Depending on how the raw data is collected;
 4. Use qGIS to merge the shapefiles by their regions and then edit the attribute table by adding the value Status, Showing"Reporting" or "Not Reporting"
 5. Join the attrbutes of the attribute table from of the world heritage list to the merged shapefils in set up 3.
 
-## Folders
-
 
 ## Files
+##### `PUP.py`
+This was the python script used to retrieved the World heritage shapefiles on the Protected Urban Planets Geodataset for decsion making on which database was suitable for analysis in the project.
 
 
 ## Leveraging on Github Capabilities
