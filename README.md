@@ -16,11 +16,22 @@ To use it, follow the setup and instructions below.
 09. Further Reading
 
 ## Workflow
+
 ![Workflow of the project](https://github.com/mkvusa/heritagezoning/blob/main/Regional%20maps/WorkFLow_HIST_new_edited.jpg)
 
+## 1. Requirements
 
-## Requirements
+This workflow requires:
+- [QGIS](https://www.qgis.org/fr/site/)[Free]
+- [FME](https://www.safe.com/)[Licensed]
+- [Python](https://www.python.org) [Free] 
+- [LaTeX](https://www.latex-project.org) [Free]
+- [Excel](https://www.microsoft.com/en-us/microsoft-365/excel)[Licensed]
 
+Other great languages and softwares may also be used.
+- [R](https://www.r-project.org) [Free]
+- [Stata](https://www.stata.com) [Licensed]
+- [ArcGIS](https://www.arcgis.com/index.html)[Licensed]
 
 ## Setup
 
