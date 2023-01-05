@@ -15,38 +15,38 @@ To use it, follow the setup and instructions below.
 08. Principles
 09. Further Reading
 
-##Workflow
+## Workflow
 ![Workflow of the project](https://github.com/mkvusa/heritagezoning/blob/main/Regional%20maps/WorkFLow_HIST_new_edited.jpg)
 
 
-##Requirements
+## Requirements
 
 
-##Setup
+## Setup
 
 
-##Folders
+## Folders
 
 
-##Files
+## Files
 
 
-##Leveraging on Github Capabilities
+## Leveraging on Github Capabilities
 
 
-##Writing
-
-
-
-##Journal Submissions
+## Writing
 
 
 
-##Principles
+## Journal Submissions
 
 
 
-##Further Reading
+## Principles
+
+
+
+## Further Reading
 
 
 
