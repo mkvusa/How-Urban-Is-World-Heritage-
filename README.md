@@ -1,6 +1,22 @@
-# heritagezoning
+#Heritage Zoning and Urbanization: An Assessment of Urbanization Trends and Patterns in World Heritage Properties
 
-This is the reporsitory of the MSCA project Heritage Zoning.
+This is the reporsitory of the project amd Journal paper Heritage Zoning and urbnisation: . It contains Steps, data and Results of the process resulting from the the assessemtent of urbanisation trends and patterns in World Heritage properties. 
+To use it: follow the setup instructions below.
+
+Summary
+Workflow
+Requirements
+Setup
+Folders
+Files
+Leveraging on Github Capabilities
+Writing
+Journal Submissions
+Principles
+Further Reading
+
+
+
 
 Here is the link to [project report](https://docs.google.com/document/d/1z2x7LImbpOdwTfusMivY_bJPvH6AD3ctfQOXbscvRqc/edit)
 
