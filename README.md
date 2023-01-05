@@ -10,7 +10,7 @@ To use it, follow the setup and instructions below.
 03. [Files]()
 04. [Writing](https://github.com/mkvusa/heritagezoning/blob/main/README.md#4-writing)
 05. [Acknownledge](https://github.com/mkvusa/heritagezoning/blob/main/README.md#5-acknowledgement)
-06. [Further Reading]()
+06. [Further Reading](https://github.com/mkvusa/heritagezoning/blob/main/README.md#further-reading)
 
 ## Workflow and datasets
 The work flow illustrate the step by step approach for this project. The original shapefiles were generated and collected from [The International Center on Space Technologies for Natural and Cultural Heritage (HIST)](http://www.unesco-hist.org/index.php?r=en/index) as such are not provided in this repository but can be accessed by request from the institution. The World Human Footprin layer evolution were processed and accessed through the [German Aerospace Center(DLR)](https://www.dlr.de/EN/Home/home_node.html) and can be dowloaded and processed by request through [German Aerospace Center(DLR)](https://geoservice.dlr.de/web/maps/eoc:wsfevolution).
@@ -53,7 +53,7 @@ This was the python script used to retrieved the World heritage shapefiles on th
 ## 5. Acknowledgement
 The workflows and datasets of this paper can be used under the [Creative Common License (Attribution CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Please give appropriate credit, such as providing a link to our paper or to this github repository. The copyright of all the downloaded and processed images belongs to the image owners.
 
-## Further Reading
+## 6. Further Reading
 
 Here is the link to [project report](https://docs.google.com/document/d/1z2x7LImbpOdwTfusMivY_bJPvH6AD3ctfQOXbscvRqc/edit)
 
