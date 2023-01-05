@@ -15,11 +15,9 @@ To use it, follow the setup and instructions below.
 08. Principles
 09. Further Reading
 
-
-##Summary
-
-
 ##Workflow
+
+
 
 
 ##Requirements
