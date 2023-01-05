@@ -4,8 +4,8 @@
 To use it, follow the setup and instructions below.
 
 ## Summary
-0.  Workflow
-01. Requirements
+0.  [Workflow]()
+01. [Requirements](https://github.com/mkvusa/heritagezoning/blob/main/README.md#1-requirements)
 02. Setup
 03. Files
 04. Writing
