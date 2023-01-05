@@ -8,7 +8,7 @@ To use it, follow the setup and instructions below.
 01. [Requirements](https://github.com/mkvusa/heritagezoning/blob/main/README.md#1-requirements)
 02. [Setup](https://github.com/mkvusa/heritagezoning/blob/main/README.md#3-files)
 03. [Files]()
-04. [Writing]()
+04. [Writing](https://github.com/mkvusa/heritagezoning/blob/main/README.md#4-writing)
 05. [Further Reading]()
 
 ## Workflow and datasets
