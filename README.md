@@ -16,8 +16,7 @@ To use it, follow the setup and instructions below.
 09. Further Reading
 
 ##Workflow
-
-
+![Workflow of the project](https://github.com/mkvusa/heritagezoning/blob/main/Regional%20maps/WorkFLow_HIST_new_edited.jpg)
 
 
 ##Requirements
