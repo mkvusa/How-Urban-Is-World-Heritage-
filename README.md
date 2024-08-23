@@ -1,6 +1,6 @@
-## Heritage Zoning and Urbanization: An Assessment of Urbanization Trends and Patterns in World Heritage Properties
+## How Urban Is World Heritage? An Investigation of Built-up Area Increase in Cultural Heritage Properties
 
-  This is the reporsitory of the project amd Journal paper 'Heritage Zoning and Urbanisation: An Assessment of Urbanization Trends and Patterns in World Heritage Properties' published in the ISPRS International Journal of Geo-Information. It contains Steps, data and Results of the process resulting from the assessemtent of urbanisation trends and patterns in sampled 426 [UNESCOs World Heritage properties](https://whc.unesco.org/en/list/). 
+  This is the reporsitory of the project amd Journal paper 'How Urban Is World Heritage? An Investigation of Built-up Area Increase in Cultural Heritage Properties' published in the Land journal. It contains Steps, data and Results of the process resulting from the assessemtent of Built-up Area Increase in Cultural Heritage Properties in sampled 668 [UNESCOs World Heritage properties](https://whc.unesco.org/en/list/). 
 To use it, follow the setup and instructions below.
 
 ## Summary
@@ -33,7 +33,7 @@ Other great languages and softwares may also be used.
 
 ## 2. Setup
 Depending on how the raw data is collected;
-1. Group the properties in to folders of uUNESCO regions i.e EUR, LAC, APA, AFR and ARB.
+1. Group the properties in to folders of UNESCO regions i.e EUR, LAC, APA, AFR and ARB.
 2. For each region group the shapefiles of the properties into categories of REPORT and NOT REPORTING for properties that are either reportinf or not reporting on urban developoment.
 3. Use python or whatever works to match names of folders to names in the attribute excel sheet of the world heritage list downloadable from [UNESCO website](https://whc.unesco.org/en/syndication).
 4. Use qGIS to merge the shapefiles by their regions and then edit the attribute table by adding the value Status, Showing"Reporting" or "Not Reporting"
