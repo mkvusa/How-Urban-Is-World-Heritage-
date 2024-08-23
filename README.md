@@ -8,7 +8,7 @@ To use it, follow the setup and instructions below.
 01. [Requirements](https://github.com/mkvusa/heritagezoning/blob/main/README.md#1-requirements)
 02. [Setup](https://github.com/mkvusa/heritagezoning/blob/main/README.md#2-setup)
 3. [Raw Data-Pixel count](https://github.com/mkvusa/heritagezoning/blob/main/_PixelCount_WSFEvo_ShapesBuffer_transposed.xlsx)
-4. [Raw_Data_GIS]()
+4. [Raw_Data_GIS](https://github.com/mkvusa/heritagezoning/blob/main/GIS_2024)
 5. [Results figures](https://github.com/mkvusa/heritagezoning/tree/main/Figures_updated_202_june)
 6. [Writting](https://github.com/mkvusa/heritagezoning/blob/main/README.md#4-writing)
 7. [Acknownledge](https://github.com/mkvusa/heritagezoning/blob/main/README.md#5-acknowledgement)
