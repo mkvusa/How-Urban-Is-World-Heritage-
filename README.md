@@ -7,7 +7,7 @@ To use it, follow the setup and instructions below.
 0.  [Workflow and Dataset](https://github.com/mkvusa/heritagezoning/blob/main/README.md#workflow-and-datasets)
 01. [Requirements](https://github.com/mkvusa/heritagezoning/blob/main/README.md#1-requirements)
 02. [Setup](https://github.com/mkvusa/heritagezoning/blob/main/README.md#2-setup)
-3. [Raw Data-Pixel count]()
+3. [Raw Data-Pixel count](https://github.com/mkvusa/heritagezoning/blob/main/_PixelCount_WSFEvo_ShapesBuffer_transposed.xlsx)
 4. [Files](https://github.com/mkvusa/heritagezoning/blob/main/README.md#3-files)
 5. [Results figures](https://github.com/mkvusa/heritagezoning/tree/main/Figures_updated_202_june)
 6. [Writting](https://github.com/mkvusa/heritagezoning/blob/main/README.md#4-writing)
@@ -16,7 +16,7 @@ To use it, follow the setup and instructions below.
 
 ## Workflow and datasets
 The work flow illustrate the step by step approach for this project. The original shapefiles were generated and collected from [The International Center on Space Technologies for Natural and Cultural Heritage (HIST)](http://www.unesco-hist.org/index.php?r=en/index) as such are not provided in this repository but can be accessed by request from the institution. The World Human Footprin layer evolution were processed and accessed through the [German Aerospace Center(DLR)](https://www.dlr.de/EN/Home/home_node.html) and can be dowloaded and processed by request through [German Aerospace Center(DLR)](https://geoservice.dlr.de/web/maps/eoc:wsfevolution).
-The datasets provided in this repository are the results of the spatial temporal analysis of the World Human footprint layer in the world heritage properties showing the [built-up picxel count](https://github.com/mkvusa/heritagezoning/blob/main/_PixelCount_WSFEvo_ShapesNoBuffer_transposed_renamed.xlsx) of each year per property from the year 1985-2015. Additionally, these excel datasets show the [names of the World Heritage properties that were assessed in the by region and by category of reporting on urban development and not reporting on urban development](https://github.com/mkvusa/heritagezoning/delete/main/_PixelCount_WSFEvo_ShapesNoBuffer_transposed_renamed.xlsx).
+The datasets provided in this repository are the results of the spatial temporal analysis of the World Human footprint layer in the world heritage properties showing the [built-up picxel count](https://github.com/mkvusa/heritagezoning/blob/main/_PixelCount_WSFEvo_ShapesBuffer_transposed.xlsx) of each year per property from the year 1985-2015. Additionally, these excel datasets show the [names of the World Heritage properties that were assessed by region and by category of reporting on urban development and not reporting on urban development](https://github.com/mkvusa/heritagezoning/delete/main/_PixelCount_WSFEvo_ShapesNoBuffer_transposed_renamed.xlsx).
 ![Workflow of the project](https://github.com/mkvusa/heritagezoning/blob/main/Regional%20maps/WorkFLow_HIST_new_edited.jpg)
 
 ## 1. Requirements
