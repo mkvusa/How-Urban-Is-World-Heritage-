@@ -65,4 +65,4 @@ We are using Draw.IO for creating the diagrams of the project.
 
 Here is a link to [project_data_assessment_process](https://drive.google.com/file/d/1P1xcFAEAEWp0NpKyCJqnSuvNw9EEZyqd/view?usp=sharing)
 
-Here is a link to the [World human Settlement layer evolution further reading](https://doi.org/10.1080/17538947.2018.1548655.)
+Here is a link for further reading on the [World Settlement Footprint Evolution](https://visat.urban-tep.eu/datasets/map?darkMode=true&viewKey=951b1250-ba02-4b6a-b00b-df4d0dfb5759)
