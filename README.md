@@ -8,9 +8,10 @@ To use it, follow the setup and instructions below.
 01. [Requirements](https://github.com/mkvusa/heritagezoning/blob/main/README.md#1-requirements)
 02. [Setup](https://github.com/mkvusa/heritagezoning/blob/main/README.md#2-setup)
 03. [Files](https://github.com/mkvusa/heritagezoning/blob/main/README.md#3-files)
-04. [Writting](https://github.com/mkvusa/heritagezoning/blob/main/README.md#4-writing)
-05. [Acknownledge](https://github.com/mkvusa/heritagezoning/blob/main/README.md#5-acknowledgement)
-06. [Further Reading](https://github.com/mkvusa/heritagezoning/blob/main/README.md#further-reading)
+04. [Results figures](https://github.com/mkvusa/heritagezoning/tree/main/Figures_updated_202_june)
+05. [Writting](https://github.com/mkvusa/heritagezoning/blob/main/README.md#4-writing)
+06. [Acknownledge](https://github.com/mkvusa/heritagezoning/blob/main/README.md#5-acknowledgement)
+07. [Further Reading](https://github.com/mkvusa/heritagezoning/blob/main/README.md#further-reading)
 
 ## Workflow and datasets
 The work flow illustrate the step by step approach for this project. The original shapefiles were generated and collected from [The International Center on Space Technologies for Natural and Cultural Heritage (HIST)](http://www.unesco-hist.org/index.php?r=en/index) as such are not provided in this repository but can be accessed by request from the institution. The World Human Footprin layer evolution were processed and accessed through the [German Aerospace Center(DLR)](https://www.dlr.de/EN/Home/home_node.html) and can be dowloaded and processed by request through [German Aerospace Center(DLR)](https://geoservice.dlr.de/web/maps/eoc:wsfevolution).
